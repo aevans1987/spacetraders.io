@@ -1,4 +1,3 @@
 from my_lib import *
 
-
-print(helpers.get_agent())
+print(contracts.get_contracts()['data'])
